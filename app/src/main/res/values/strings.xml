@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Tuck Box</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="name">Name</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="recent_orders">Orders</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+
+    <!--Locations name-->
+    <string name="palmerston">Palmerston North</string>
+    <string name="feilding">Feilding</string>
+    <string name="ashhurst">Ashhurst</string>
+    <string name="longburn">Longburn</string>
+
+    <!--Menu -->
+    <string name="gsl">Green Salad Lunch</string>
+    <string name="lk">Lamb Korma</string>
+    <string name="ocs">Open Chicken Sandwich</string>
+    <string name="bns">Beef Noodle Salad</string>
+
+
+    <!--Menu options-->
+    <string name="none">None</string>
+    <string name="ranch">Ranch</string>
+    <string name="vinaigrette">Vinaigrette</string>
+    <string name="mild">Mild</string>
+    <string name="med">Med</string>
+    <string name="hot">Hot</string>
+    <string name="white">White</string>
+    <string name="rye">Rye</string>
+    <string name="wholemeal">Wholemeal</string>
+    <string name="nochilli">No chilli flakes</string>
+    <string name="extrachilli">Extra Chilli Flakes</string>
+
+    <!-- Timings-->
+    <string name="time1">11.45-12.15</string>
+    <string name="time2">12.15-12.45</string>
+    <string name="time3">12.45-1.15</string>
+    <string name="time4">1.15-1.45</string>
+
+    <!--Address-->
+    <string name="personname">Name</string>
+    <string name="house">House/ Flat No.</string>
+    <string name="street">Street</string>
+    <string name="suburb">Sub-Urb</string>
+    <string name="state">Street</string>
+    <string name="phone">Telephone No.</string>
+
+    <string name="title_activity_order">OrderActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blankads fragment</string>
+
+    <string name="hello_blank_fragment1">Hello blankads asfdfragment</string>
+    <string name="title_activity_recent_orders">RecentOrdersActivity</string>
+
+</resources>
+

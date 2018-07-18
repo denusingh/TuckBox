@@ -1,0 +1,50 @@
+{
+    "Category": {
+        "01": {
+            "Name": "Green Salad Lunch",
+            "Image": "",
+            "Customise": {
+                "01": "None",
+                "02": "Ranch",
+                "03": "Vinaigrette"
+            }
+        },
+        "02": {
+            "Name": "Lamb Korma",
+            "Image": "",
+            "Customise": {
+                "01": "Mild",
+                "02": "Med",
+                "03": "Hot"
+            }
+        },
+        "03": {
+            "Name": "Open Chicken Sandwich",
+            "Image": "",
+            "Customise": {
+                "01": "White",
+                "02": "Rye",
+                "03": "Wholemeal"
+            }
+        },
+        "04": {
+            "Name": "Beef Noodle Salad",
+            "Image": "",
+            "Customise": {
+                "01": "No chilli flakes",
+                "02": "Extra chilli flakes"
+            }
+        }
+    },
+
+    "User": {
+        "101": {
+            "Email": "rahul",
+            "Password": "1234"
+        },
+        "user1": {
+            "email": "Rahul",
+            "password": "1234"
+        }
+    }
+}

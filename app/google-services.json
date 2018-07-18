@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1084927721893",
+    "firebase_url": "https://tuckbox-17a4c.firebaseio.com",
+    "project_id": "tuckbox-17a4c",
+    "storage_bucket": "tuckbox-17a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084927721893:android:3c1b8760ebfe57c3",
+        "android_client_info": {
+          "package_name": "com.rahulsinghkamboj.android.tuckbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084927721893-vcdi2ect9lcdp2c5v6slfk27l542fbs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rahulsinghkamboj.android.tuckbox",
+            "certificate_hash": "3bc7ceb8f04cc77dd4317e6e4ce710c474092f2f"
+          }
+        },
+        {
+          "client_id": "1084927721893-v8vk7igv17nhicdc6jbm71mh0jju7v90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8ZnCLjg1aaJ3QF96KaEiV09D5D0Vqwyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084927721893-v8vk7igv17nhicdc6jbm71mh0jju7v90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
